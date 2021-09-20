@@ -19,4 +19,15 @@ tr:nth-child(odd)
 {background-color: #d64a4a;}
 span.name:hover{color: rgb(231, 102, 188); text-shadow: 1px 1px 3px #FF0000;border-style: solid;
     border-color: #02070f;}
-    
+.glyphicon glyphicon-star{color: red}
+li {
+    display:block;
+    width:120px;
+    float:left;
+    margin-left:2px;
+    border:2px solid #000;
+  }
+  img{
+      height: 100px;
+      width: 100px;
+  }
