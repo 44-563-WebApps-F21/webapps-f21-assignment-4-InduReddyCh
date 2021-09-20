@@ -1,0 +1,9 @@
+p{font-style: normal; font-size: 10; }
+
+span.a{ color: green;background-color:pink;}
+#direction{color: red;}
+.name1{color: royalblue;}
+.name2{color: yellowgreen;}
+#name{color: brown;}
+span.char{color: black;}
+span.a:hover{background-color:salmon;}
