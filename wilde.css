@@ -17,5 +17,6 @@ tr:nth-child(even)
 {background-color: #9aaef3;}
 tr:nth-child(odd)
 {background-color: #d64a4a;}
-   
+span.name:hover{color: rgb(231, 102, 188); text-shadow: 1px 1px 3px #FF0000;border-style: solid;
+    border-color: #02070f;}
     
