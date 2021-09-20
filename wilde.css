@@ -7,3 +7,15 @@ span.a{ color: green;background-color:pink;}
 #name{color: brown;}
 span.char{color: black;}
 span.a:hover{background-color:salmon;}
+table{border: 2px solid black;
+    }
+ th {border: solid 1px ;background-color: rgb(228, 147, 228);
+    text-align: center;
+    padding: 8px
+    }
+tr:nth-child(even)
+{background-color: #9aaef3;}
+tr:nth-child(odd)
+{background-color: #d64a4a;}
+   
+    
